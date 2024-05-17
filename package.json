@@ -1,0 +1,27 @@
+{
+  "name": "@hasancruk/cr-social-proof",
+  "version": "0.0.1",
+  "description": "This is a web component port of the CRUK's Chakra SocialProof component.",
+  "main": "cr-social-proof.js",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasancruk/cr-social-proof.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hasancruk/cr-social-proof/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": ["layout", "card", "web component", "vanilla", "shadow dom"],
+  "author": {
+    "name": "Hasan Ali",
+    "email": "hasan.ali@cancer.org.uk",
+    "url": "https://www.hasanhaja.com/"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/hasancruk/cr-social-proof#cr-social-proof"
+}
